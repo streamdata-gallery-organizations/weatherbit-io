@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28119-weat
 x-kinRank: "8"
 x-alexaRank: "1016253"
 tags: Weatherbit.io
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-31"
+modified: "2018-08-31"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/weatherbit-io/master/_listings/weatherbit-io/apis.md
 specificationVersion: "0.14"
 apis:
